@@ -6,6 +6,10 @@ tag: web development
 author: You
 ---
 
+<head>
+    <script async src="https://arc.io/widget.min.js#8buMTHAY"></script>
+</head>
+
 # Markdown Examples
 
 ## h2 Heading

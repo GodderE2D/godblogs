@@ -6,6 +6,10 @@ tag: web development
 author: You
 ---
 
+<head>
+    <script async src="https://arc.io/widget.min.js#8buMTHAY"></script>
+</head>
+
 # Next.js Pages
 
 In Next.js, a **page** is a [React Component](https://reactjs.org/docs/components-and-props.html) exported from a `.js`, `.jsx`, `.ts`, or `.tsx` file in the `pages` directory. Each page is associated with a route based on its file name.
